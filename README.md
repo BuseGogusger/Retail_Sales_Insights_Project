@@ -30,6 +30,9 @@ The analysis is organized into SQL queries with descriptive comments, making it 
 ## Market Basket Analysis
 Note: Although the project initially aimed to include market basket analysis, it was found that the dataset lacks the necessary identifiers (common invoice numbers or customer IDs) to perform this type of analysis. Despite the attempt, it was not possible to conduct a market basket analysis.
 
+## Data Realism and Limitations
+The dataset used in this analysis contains uniformly priced products, which may not reflect real-world variations. This is because some synthetic datasets use uniform values for simplicity or anonymization. While this uniform pricing may limit the realism of the data, it is essential to highlight that the analysis techniques and methodologies remain valuable for real-world scenarios.
+
 ## Usage
 You can review the analysis queries and their respective results in the Jupyter Notebook provided. Feel free to explore the SQL code and results to gain a deeper understanding of the insights obtained from the retail sales data.
 
