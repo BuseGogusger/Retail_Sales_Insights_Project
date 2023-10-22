@@ -27,6 +27,9 @@ The primary goal of this analysis is to gain insights into the shopping behavior
 ## Code Structure
 The analysis is organized into SQL queries with descriptive comments, making it easy to understand the purpose of each query. The analysis is well-documented and presented in a structured manner.
 
+## Market Basket Analysis
+Note: Although the project initially aimed to include market basket analysis, it was found that the dataset lacks the necessary identifiers (common invoice numbers or customer IDs) to perform this type of analysis. Despite the attempt, it was not possible to conduct a market basket analysis.
+
 ## Usage
 You can review the analysis queries and their respective results in the Jupyter Notebook provided. Feel free to explore the SQL code and results to gain a deeper understanding of the insights obtained from the retail sales data.
 
